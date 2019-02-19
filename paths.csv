@@ -1,0 +1,73 @@
+city1,city2,dist
+The Wall,Winterfell,259
+Winterfell,White Harbor,247
+The Wall,White Harbor,265
+White Harbor,Gulltown,280
+Gulltown,Kings Landing,110
+Kings Landing,Lannisport,230
+Kings Landing,Oldtown,213
+Lannisport,Oldtown,250
+Oldtown,Tyrosh,211
+Oldtown,Lotus Port,186
+Tyrosh,Lotus Port,147
+Tyrosh,Lys,135
+Lys,Lotus Port,145
+Tyrosh,Myr,97
+Lotus Port,Volantis,136
+Lotus Port,New Ghis,119
+Gulltown,Pentos,87
+Myr,Pentos,74
+Myr,Volantis,180
+Myr,Qohor,98
+Pentos,Braavos,78
+Pentos,Lorath,67
+Pentos,Norvos,79
+Braavos,Lorath,58
+Lorath,Norvos,81
+Norvos,Qohor,68
+Qohor,Saath,98
+Saath,Morosh,58
+Morosh,Vaes Dothrak,120
+Morosh,Meereen,137
+Volantis,Mantarys,98
+Mantarys,Elyria,75
+Mantarys,Meereen,110
+Elyria,Yunkai,69
+Meereen,Hesh,78
+Meereen,Yunkai,80
+Hesh,Lhazosh,80
+Yunkai,Astapor,82
+Astapor,Port Yhos,97
+Lhazosh,Kosrak,85
+Port Yhos,Vahar,84
+New Ghis,Vahar,96
+Vahar,Faros,69
+Vahar,Qarkash,72
+Faros,Qarth,75
+Qarkash,Qarth,80
+Qarth,Asabhad,86
+Asabhad,Yin,75
+Asabhad,Bayasabhad,90
+Asabhad,Tiqui,83
+Bayasabhad,Samyriana,110
+Tiqui,Trader Town,75
+Trader Town,Samyriana,118
+Trader Town,Kayakayanaya,117
+Kosrak,Samyriana,120
+Kosrak,Vaes Dothrak,123
+Vaes Dothrak,Kayakayanaya,104
+Vaes Dothrak,New Ibbish,82
+New Ibbish,Port of Ibben,79
+New Ibbish,Ib Sar,76
+Port of Ibben,Ib Nor,61
+Kayakayanaya,Nefer,95
+Nefer,KDath,87
+KDath,Jinqi,81
+Jinqi,Leng Yi,68
+Leng Yi,Leng Ma,63
+Jinqi,Carcosa,73
+Carcosa,City of the Winged Men,40
+Leng Ma,Turrani,59
+Turrani,Asshai,47
+Yin,Port Moraq,63
+Port Moraq,Zabhad,58
